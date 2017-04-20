@@ -15,6 +15,5 @@ int main() {
 	circle ball(w, 70, 30, 20);
 	ball.print();
 
-	w.loop();
 	return 0;
 }

@@ -12,7 +12,6 @@ private:
 public:
 	window(int w, int h);
 	void draw(int x, int y);
-	void loop();
 };
 
 #endif
